@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AIKYAM Connect</string>
+    <string name="title_activity_main">AIKYAM Connect</string>
+    <string name="package_name">com.aikyam.connect</string>
+    <string name="custom_url_scheme">com.aikyam.connect</string>
+    <string name="server_client_id">630823825222-48531ief3a67hj84124sl46str5i0klb.apps.googleusercontent.com</string>
+</resources>

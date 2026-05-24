@@ -1,0 +1,13 @@
+{
+  "appId": "com.aikyam.connect",
+  "appName": "AIKYAM Connect",
+  "webDir": "dist",
+  "plugins": {
+    "GoogleAuth": {
+      "scopes": ["profile", "email"],
+      "clientId": "630823825222-48531ief3a67hj84124sl46str5i0klb.apps.googleusercontent.com",
+      "androidClientId": "630823825222-rn1is0r67748o3mmnt4b6dsuq0jg75kq.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": true
+    }
+  }
+}
